@@ -1,0 +1,40 @@
+#  Capítulo 6 - Imagens
+
+- Utilize imagens para complementar a documentação.
+- Sempre utilize um texto alternativo descritivo.
+- Prefira imagens armazenadas no próprio repositório.
+---
+
+## Inserindo uma imagem
+
+### Sintaxe
+
+```markdown
+![Texto alternativo](caminho-da-imagem.png)
+```
+
+### Exemplo
+
+```markdown
+![Logo do GitHub](imagens/github.png)
+```
+
+---
+
+## Imagem com link da internet
+
+### Sintaxe
+
+```markdown
+![GitHub](https://endereco-da-imagem.png)
+```
+
+---
+
+## Como usar
+
+- O texto entre colchetes (`[]`) é o texto alternativo da imagem.
+- O endereço da imagem fica entre parênteses (`()`).
+- A exclamação (`!`) indica que o elemento é uma imagem.
+
+---
