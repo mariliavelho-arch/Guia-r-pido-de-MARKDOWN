@@ -22,4 +22,4 @@ Aprender a documentar projetos de forma organizada e profissional para utilizá-
 
 ---
 
-Em constante atualização 🚀
+Em constante atualização... 🚀 
