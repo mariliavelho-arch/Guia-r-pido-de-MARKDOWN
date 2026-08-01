@@ -7,6 +7,7 @@ Este repositório reúne meus estudos sobre a linguagem **Markdown**, utilizada 
 
 - Títulos
 - Texto em negrito e itálico
+- Adicionar linha horizontal
 - Listas
 - Links
 - Imagens
